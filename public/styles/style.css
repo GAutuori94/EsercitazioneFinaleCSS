@@ -659,7 +659,7 @@
     gap: 5px;
   }
   .second-content-container p {
-    line-height: 15px;
+    line-height: 25px;
     padding: 0px 40px;
     font-weight: 400;
   }
@@ -688,7 +688,7 @@
   .third-content-container p {
     padding: 0px 40px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 25px;
   }
   .third-content-container .icons-container {
     display: flex;
@@ -752,11 +752,12 @@
   .fifth-section .left-column div p:first-child {
     text-align: left;
     margin-bottom: 10px;
+    line-height: 25px;
   }
   .fifth-section .left-column div p:last-child {
     text-align: left;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 25px;
   }
   .fifth-content-container {
     padding: 0px;
@@ -789,11 +790,12 @@
   .sixth-section .left-column div p:first-child {
     text-align: left;
     margin-bottom: 10px;
+    line-height: 25px;
   }
   .sixth-section .left-column div p:last-child {
     text-align: left;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 25px;
   }
   .seventh-section .left-column {
     display: flex;
@@ -813,6 +815,7 @@
   }
   .seventh-content-container p {
     font-weight: 400;
+    line-height: 25px;
   }
   .seventh-content-container .button-container {
     display: flex;
@@ -852,6 +855,7 @@
   }
   .eight-content-container p {
     font-weight: 400;
+    line-height: 25px;
   }
   .eight-content-container .input-container {
     display: flex;
